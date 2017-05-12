@@ -1,0 +1,7 @@
+venv/
+pypy/
+__pycache__
+*.pyc
+access.log
+error.log
+state.pickle
